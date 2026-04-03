@@ -21,3 +21,8 @@ This is **not** a portfolio app and not a balance checker.
 * web3.js
 * Phantom Wallet
 * Devnet RPC
+
+
+# Usage
+
+You need a phantom wallet installed and already setup in your browser, and then connect your wallet to the site.
